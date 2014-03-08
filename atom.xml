@@ -4,7 +4,7 @@
   <title><![CDATA[Aproximating Me]]></title>
   <link href="http://clokey.github.io/atom.xml" rel="self"/>
   <link href="http://clokey.github.io/"/>
-  <updated>2014-03-08T21:56:26+00:00</updated>
+  <updated>2014-03-08T23:07:59+00:00</updated>
   <id>http://clokey.github.io/</id>
   <author>
     <name><![CDATA[Clokey]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[MacOSXVirtualSerialPort]]></title>
+    <link href="http://clokey.github.io/blog/2014/03/08/macosxvirtualserialport/"/>
+    <updated>2014-03-08T23:05:16+00:00</updated>
+    <id>http://clokey.github.io/blog/2014/03/08/macosxvirtualserialport</id>
+    <content type="html"><![CDATA[<p>The first of the open source projects is now moved to the github repository. <a href="https://github.com/clokey/PublicCode/tree/master/MacOSXVirtualSerialPort">MacOSXVirtualSerialPort</a> was a means of creating a virtual serial port pair on Mac OS X 10.7. Sadly it doesn&rsquo;t work anymore as the code relied on an interface builder plugin that no longer works and an authentication model no longer supported in Mac OS X.</p>
+
+<p>The readme file in the repo does include instructions on how to use the underlying socat tool to achieve the same outcome.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Starting Over]]></title>
