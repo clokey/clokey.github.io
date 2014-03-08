@@ -4,7 +4,7 @@
   <title><![CDATA[Aproximating Me]]></title>
   <link href="http://clokey.github.io/atom.xml" rel="self"/>
   <link href="http://clokey.github.io/"/>
-  <updated>2014-01-04T00:46:07+00:00</updated>
+  <updated>2014-03-08T21:56:26+00:00</updated>
   <id>http://clokey.github.io/</id>
   <author>
     <name><![CDATA[Clokey]]></name>
@@ -12,5 +12,22 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Starting Over]]></title>
+    <link href="http://clokey.github.io/blog/2014/03/08/starting-over/"/>
+    <updated>2014-03-08T21:50:27+00:00</updated>
+    <id>http://clokey.github.io/blog/2014/03/08/starting-over</id>
+    <content type="html"><![CDATA[<p>It&rsquo;s been a little over 5 years since I committed a great quantity of code to open source. A lot has changed since the
+and the time is right to bring the code together on my github pages.</p>
+
+<p>The plan is that as I migrate code over, I&rsquo;ll update this blog and provide links into the repository.</p>
+
+<p>First up, Mac OS X Virtual Serial ports, a project that provided a wrapper around the socat command line tool
+and has been broken for at least 2 releases of Mac OS X. I am not necessarily proposing fixing it right now, but at least bring bring it to github first.</p>
+
+<p>Onwards.</p>
+]]></content>
+  </entry>
   
 </feed>
