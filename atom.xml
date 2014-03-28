@@ -4,7 +4,7 @@
   <title><![CDATA[Aproximating Me]]></title>
   <link href="http://clokey.github.io/atom.xml" rel="self"/>
   <link href="http://clokey.github.io/"/>
-  <updated>2014-03-08T23:07:59+00:00</updated>
+  <updated>2014-03-27T20:55:42+00:00</updated>
   <id>http://clokey.github.io/</id>
   <author>
     <name><![CDATA[Clokey]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Bushey_monitor]]></title>
+    <link href="http://clokey.github.io/blog/2014/03/27/bushey-monitor/"/>
+    <updated>2014-03-27T20:48:28+00:00</updated>
+    <id>http://clokey.github.io/blog/2014/03/27/bushey-monitor</id>
+    <content type="html"><![CDATA[<p>In 2010 I was intrigued about getting XBee mesh networks connected to twitter, it seemed to be the thing to do. As a result, I ended up purchasing an iDigi connectPort X4 starter kit, it came with an ethernet to XBee bridge and some indoor and outdoor temperature sensor.</p>
+
+<p>The <a href="https://github.com/clokey/PublicCode/tree/master/bushey_monitor">result</a> is a small piece of Python, using the excellent BeautifulSoup, that responded to peoples requests for temperatures. As with the other code in the public repo, I am sure that the twitter api, no longer supports this interaction, but is here for pedagogic purposes.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[MacOSXVirtualSerialPort]]></title>
