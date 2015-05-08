@@ -4,7 +4,7 @@
   <title><![CDATA[Aproximating Me]]></title>
   <link href="http://clokey.github.io/atom.xml" rel="self"/>
   <link href="http://clokey.github.io/"/>
-  <updated>2014-05-05T20:19:57+01:00</updated>
+  <updated>2015-05-08T09:48:11+01:00</updated>
   <id>http://clokey.github.io/</id>
   <author>
     <name><![CDATA[Clokey]]></name>
@@ -14,11 +14,22 @@
 
   
   <entry>
+    <title type="html"><![CDATA[ArcView]]></title>
+    <link href="http://clokey.github.io/blog/2015/05/08/arcview/"/>
+    <updated>2015-05-08T09:40:54+01:00</updated>
+    <id>http://clokey.github.io/blog/2015/05/08/arcview</id>
+    <content type="html"><![CDATA[<p>After an extremely long break, i&rsquo;ve committed some new code to the <a href="https://github.com/clokey/PublicCode">PublicRepo</a>. The new code is a very simple iOS 8.3 swift project that implements an arc in a view. I&rsquo;ve made it IBDesignable and IBInspectable, and for once managed to get autolayout to do what I wanted in a short period of time.</p>
+
+<p>This mini project is a new way of working for me. Essentially, build small parts, then assemble the small parts into something bigger. Let&rsquo;s see whether that helps with the procrastination.</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[Alfred Workflows]]></title>
     <link href="http://clokey.github.io/blog/2014/05/05/alfred-workflows/"/>
     <updated>2014-05-05T20:12:44+01:00</updated>
     <id>http://clokey.github.io/blog/2014/05/05/alfred-workflows</id>
-    <content type="html"><![CDATA[<p>Now that I have some time on my hands, I&rsquo;ve decided to become more Ninja like with my keyboard fu. To that end I have thrown myself into using <a href="http://alfredapp.com">Alfred 2.0</a> a lot more. There are a whole host of really useful workflows published on the <a href="http://www.packal.org/">Packal</a> site and there are a large number of articles on useful and good workflows, that have really kicked started my used of Alfred.</p>
+    <content type="html"><![CDATA[<p>Now that I have some time on my hands, I&rsquo;ve decided to become more Ninja like with my keyboard fu. To that end I have thrown myself into using <a href="http://alfredapp.com">Alfred 2.0</a> a lot more. There are a whole host of really useful workflows published on the <a href="http://www.packal.org/">Packal</a> site and there are a large number of articles on useful and good workflows, that have really kicked started my use of Alfred.</p>
 
 <p>I have also written my own workflow that binds ctrl+cmd+alt+F to toggle the functionality of the &lsquo;fn&rsquo; key on an Apple keyboard. Everytime the shortcut is executed it toggles the behaviour from default apple behaviour to <em>naked</em> functionality and vice-versa.</p>
 
