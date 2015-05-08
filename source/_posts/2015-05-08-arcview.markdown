@@ -1,0 +1,11 @@
+---
+layout: post
+title: "ArcView"
+date: 2015-05-08 09:40:54 +0100
+comments: true
+categories: 
+---
+
+After an extremely long break, i've committed some new code to the [PublicRepo](https://github.com/clokey/PublicCode). The new code is a very simple iOS 8.3 swift project that implements an arc in a view. I've made it IBDesignable and IBInspectable, and for once managed to get autolayout to do what I wanted in a short period of time.
+
+This mini project is a new way of working for me. Essentially, build small parts, then assemble the small parts into something bigger. Let's see whether that helps with the procrastination.
